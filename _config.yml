@@ -14,5 +14,5 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 
 theme: jekyll-theme-hacker
-title: daniellekirkwood
-description: This is the description of my GitHub pages website
+title: daniellekirkwood.github.io
+description: Like a blog, but with less calendar.
