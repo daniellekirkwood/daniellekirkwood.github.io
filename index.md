@@ -6,6 +6,6 @@ This is very much a work in progress as I teach myself GitHub pages...
 
 |About me|PM process| Other links...|
 |---|---|---|
-| | [Quarterly Planning](./quarterlyplanning.md) | [Easy markdown to pages](./setup.md) | 
-| | | | 
+| |[Quarterly Planning](./content/quarterlyplanning.md) | [Easy markdown to pages](./content/setup.md) | 
+| |[Decision Making](./content/decisionmaking.md) | | 
 | | | | 
