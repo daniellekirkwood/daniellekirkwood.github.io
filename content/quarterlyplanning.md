@@ -4,6 +4,7 @@ This document suggests how we might choose to run Quarterly Planning at Element,
 
 | **Status:** WIP | **Last updated:** Nov 24, 2021 |
 | --------------- | ------------------------------ |
+| | |
 
 #### **What is Quarterly Planning?**
 
