@@ -7,5 +7,3 @@ This is very much a work in progress as I teach myself GitHub pages...
 | | [Quarterly Planning](./quarterlyplanning.md) | [Easy markdown to pages](./setup.md) | 
 | | | | 
 | | | | 
-
-
