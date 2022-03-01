@@ -6,12 +6,6 @@ A talented product manager, capable communicator, and strategic thinker with a d
 
 <hr />
 
-| Last updated | 
-|---|
-| March 2021 |
-
-<hr /> 
-
 **EXPERIENCE**
 
 *Intuit* a large global financial platformsince Dec 2014
