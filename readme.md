@@ -12,6 +12,8 @@ There are a couple of files that make the website work. We're using GitHub pages
 
 The content found on the site is contained in the Content folder. The title of each page relates directly to its content. Naming conventions are few; lower case, useful... That's about it
 
+<hr />
+
 ### Making changes
 
   If there's anything missing from the site, go ahead and raise an [New Topic Request issue](https://github.com/daniellekirkwood/daniellekirkwood.github.io/issues/new/choose)
