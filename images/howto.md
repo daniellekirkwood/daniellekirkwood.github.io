@@ -1,3 +1,3 @@
 ![](./images/image.png)
 
-![](./images/businessblueprint.png)
+![](./businessblueprint.png)
