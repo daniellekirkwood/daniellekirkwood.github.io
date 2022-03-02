@@ -1,3 +1,7 @@
 ### IDEO's Business Blueprint
 
-![](../images/businessblueprint.png)
+Lorem ipsum sit dolor amet. 
+
+| The Framework |
+|---|
+| ![](../images/businessblueprint.png) |
