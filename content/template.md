@@ -2,4 +2,4 @@
 
 | Status | Last updated |
 |---|---|
-| Draft | MM DD, YYYY |
+| Draft | MM DD, YYY |
