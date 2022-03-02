@@ -1,3 +1,3 @@
 ### IDEO's Business Blueprint
 
-![](./images/businessblueprint.png)
+![](././images/businessblueprint.png)
