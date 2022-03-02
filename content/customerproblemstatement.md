@@ -4,8 +4,8 @@
 |---|---|
 | Draft | March 2, 2021 |
 
-I am a ...
-Trying to ... ,
-but ... ,
-because ...
-This makes me feel ...
+I am a ... <br />
+Trying to ... , <br />
+but ... , <br />
+because ... <br />
+This makes me feel ... <br />
