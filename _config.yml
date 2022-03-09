@@ -13,6 +13,6 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-cayman
 title: dk.
 description: Like a blog, but with less calendar.
