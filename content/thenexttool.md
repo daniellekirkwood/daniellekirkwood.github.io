@@ -26,4 +26,4 @@ Add as many columns as needed.
 
 
 ## Examples
-![](./images/Screenshot 2022-03-09 at 12.44.20.png)
+![](../images/Screenshot 2022-03-09 at 12.44.20.png)
