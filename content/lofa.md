@@ -4,6 +4,7 @@
 |---|---|
 | Draft | 05, 2022 |
 
+<br />
 
 - An **assumption** is a belief that exist without proof.
 - A **Leap of faith assumptions** is a belief that are the most critical to the success. Beliefs that, if not true, would bring the whole platform down. 
@@ -14,7 +15,9 @@ LOFAs are the riskiest elements of any plan, everything else depends on them.
 LOFAs should be relative to your specific solution idea and are defined as "the assumptions that are most crucial for a thing to succeed" and "have not been proven true elsewhere". 
 
 
-**An example:**
+<br />
+
+## An Example
 
 When AirBnB first started, they identified that in order for their business to work, 2 things _must_ be true. Those were:
 1. People had to be willing to let strangers rent a room/floor space in their house for a short period of time.
