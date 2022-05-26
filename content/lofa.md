@@ -4,6 +4,7 @@
 |---|---|
 | Draft | 05, 2022 |
 
+
 - An **assumption** is a belief that exist without proof.
 - A **Leap of faith assumptions** is a belief that are the most critical to the success. Beliefs that, if not true, would bring the whole platform down. 
 
