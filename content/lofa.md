@@ -24,6 +24,6 @@ Only one of these customer assumptions is a true LOFA. It's number 2.
 Number 1 is not a true LOFA as the concept of Bed&Breakfasts already shows that to be true in a similar enough environment that they could make a less risky assumption it would apply to their new business too.
 
 
-Part of [Rapid Experimentation](./rapidexperimentation.md) theory is testing your LOFAs as quickly and as cheaply as possible to ensure that your idea 'has legs'. 
+Part of [Rapid Experimentation](./content/rapidexperimentation.md) theory is testing your LOFAs as quickly and as cheaply as possible to ensure that your idea 'has legs'. 
 
 In the case of AirBnB, they created a website that promoted one room, and one floor space, in San Francisco during a big event. They had so much interest from people wanting to stay in their own apartment, that they concluded the idea would be successful and continued to build it to a full-product.
